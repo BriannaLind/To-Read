@@ -8,3 +8,4 @@ investigation, visualization, and communication of past human-environmental inte
 * [Separating Data From Intuition:](https://www.jstor.org/stable/pdf/43696598.pdf?casa_token=SUgLmhNQA5EAAAAA:iYrZREs_8luloWSFLaXLBxnc2GwgmvoxP32Nptvh2VxUNP2VPtdrKvFTGDVXhuyD_WmxZEKUjGKeIcqRLrxVi-Ia8HoZ4Q85b9jasAL07jDlnymA8hVz) Bringing Evidence Into the Management Classroom
 * [Reinventing Organizations Wiki](https://reinventingorganizationswiki.com/en/theory/teal-paradigm-and-organizations/)
 * [An Everyone Culture: Becoming a Deliberately Developmental Organization](https://store.hbr.org/product/an-everyone-culture-becoming-a-deliberately-developmental-organization/14259)
+* [Boundary Crossing and Boundary Objects](https://www.researchgate.net/profile/Sanne-Akkerman/publication/220041446_Boundary_Crossing_and_Boundary_Objects/links/56fa2ffe08ae81582bf443f9/Boundary-Crossing-and-Boundary-Objects.pdf)
