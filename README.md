@@ -12,3 +12,4 @@ investigation, visualization, and communication of past human-environmental inte
 * [ Mapping the Impact of Software in Science:](https://cziscience.medium.com/mapping-the-impact-of-software-in-science-92c1b5126a34) shares notes from their 2023 hackathon to develop comprehensive datasets, methods, approaches, and resources to map the adoption and impact of research software in science
 * [Open access research outputs recieve more diverse citations](https://link.springer.com/article/10.1007/s11192-023-04894-0)
 * [Empirically modeling household vulnerability and food security across southern Africa](https://www.tandfonline.com/doi/epdf/10.1080/1747423X.2023.2226140?needAccess=true) how demographers use RS data and just rad
+* [The spatial allocation of population: a review of large-scale gridded population data products and their fitness for use](https://essd.copernicus.org/articles/11/1385/2019/)
